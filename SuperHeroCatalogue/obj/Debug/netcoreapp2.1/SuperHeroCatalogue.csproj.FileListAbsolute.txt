@@ -1,0 +1,14 @@
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\bin\Debug\netcoreapp2.1\SuperHeroCatalogue.deps.json
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\bin\Debug\netcoreapp2.1\SuperHeroCatalogue.runtimeconfig.json
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\bin\Debug\netcoreapp2.1\SuperHeroCatalogue.runtimeconfig.dev.json
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\bin\Debug\netcoreapp2.1\SuperHeroCatalogue.dll
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\bin\Debug\netcoreapp2.1\SuperHeroCatalogue.pdb
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.csprojAssemblyReference.cache
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.RazorAssemblyInfo.cache
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.RazorAssemblyInfo.cs
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.AssemblyInfoInputs.cache
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.AssemblyInfo.cs
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.RazorTargetAssemblyInfo.cache
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.dll
+C:\Users\Victor-PC\source\repos\SuperHeroCatalogue\SuperHeroCatalogue\obj\Debug\netcoreapp2.1\SuperHeroCatalogue.pdb
